@@ -1,0 +1,11 @@
+.checkoutproduct img {
+  max-width: 100px;
+}
+
+.checkoutproduct {
+  margin: 22px auto;
+  margin-left: 2%;
+}
+td.title {
+  width: 280px;
+}

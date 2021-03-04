@@ -1,0 +1,12 @@
+.product {
+  margin-bottom: 10px;
+}
+.product_rating {
+  display: flex;
+  flex-direction: row;
+  color: #eab237;
+  margin: 10px 0;
+}
+.product > img {
+  max-width: 100%;
+}
